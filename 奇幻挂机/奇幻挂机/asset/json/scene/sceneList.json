@@ -34,14 +34,13 @@
         {
             "id": 1,
             "name": "新的场景1",
-            "children": [
-                {
-                    "id": 2,
-                    "name": "主城",
-                    "children": []
-                }
-            ],
+            "children": [],
             "isOpen": true
+        },
+        {
+            "id": 2,
+            "name": "主城",
+            "children": []
         }
     ]
 }

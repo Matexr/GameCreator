@@ -18,12 +18,12 @@
         "mainArea": 0,
         "sceneState": {
             "lastSceneMapID": 2,
-            "lastSceneElementIndex": 1,
-            "lastSceneElementSelectedIndex": 0,
+            "lastSceneElementIndex": 0,
+            "lastSceneElementSelectedIndex": 10,
             "lastSceneElementBlockset": true
         },
         "viewState": {
-            "showGrid": false,
+            "showGrid": true,
             "alignGrid": false,
             "dimLayer": 1,
             "render": true,

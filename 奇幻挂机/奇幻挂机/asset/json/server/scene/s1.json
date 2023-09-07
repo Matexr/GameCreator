@@ -35,7 +35,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 9,
@@ -72,7 +73,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 9,
@@ -109,7 +111,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 1,
@@ -146,7 +149,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 1,
@@ -183,7 +187,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 2,
@@ -220,7 +225,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -257,7 +263,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -294,7 +301,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -331,7 +339,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -368,7 +377,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -405,7 +415,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -442,7 +453,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -479,7 +491,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -516,7 +529,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -553,7 +567,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -590,7 +605,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -627,7 +643,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -664,7 +681,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -701,7 +719,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 4,
@@ -738,7 +757,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -775,7 +795,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 7,
@@ -812,7 +833,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 1,
@@ -849,7 +871,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 1,
@@ -886,7 +909,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 3,
@@ -923,7 +947,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 1,
@@ -960,7 +985,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 1,
@@ -997,7 +1023,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 1,
@@ -1034,7 +1061,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 4,
@@ -1071,7 +1099,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 10,
@@ -1108,7 +1137,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         {
             "modelID": 1,
@@ -1145,7 +1175,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         null,
         null,

@@ -54,21 +54,21 @@
         }
     ],
     "BORN": {
-        "sceneID": 1,
+        "sceneID": 2,
         "so": {
             "modelID": 1,
             "index": 0,
             "name": "玩家对象",
-            "x": 886,
-            "y": 440,
+            "x": 980,
+            "y": 446,
             "z": 0,
             "materialData": [
                 {
                     "materials": []
                 }
             ],
-            "avatarID": 1,
-            "avatarOri": 8,
+            "avatarID": 0,
+            "avatarOri": 2,
             "avatarAct": 1,
             "avatarFPS": 12,
             "avatarFrame": 1,
@@ -162,7 +162,7 @@
             },
             "onlyPlayerTouch": {
                 "varType": 2,
-                "value": false,
+                "value": true,
                 "copy": false
             },
             "repeatedTouchEnabled": {

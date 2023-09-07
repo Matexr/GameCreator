@@ -1,13 +1,387 @@
 {
-    "sceneObjects": [],
+    "sceneObjects": [
+        null,
+        {
+            "modelID": 1,
+            "index": 1,
+            "name": "装备铺",
+            "x": 696,
+            "y": 744,
+            "z": 0,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ],
+            "avatarID": 0,
+            "avatarOri": 2,
+            "avatarAct": 1,
+            "avatarFPS": 12,
+            "avatarFrame": 1,
+            "avatarAlpha": 1,
+            "avatarHue": 0,
+            "shadowEnable": false,
+            "shadowWidth": 30,
+            "shadowHeight": 15,
+            "shadowAlpha": 0.5,
+            "displayList": {
+                "avatar": {
+                    "type": 1
+                }
+            },
+            "moduleDisplayList": [],
+            "layerLevel": 1,
+            "autoPlayEnable": true,
+            "scale": 1,
+            "playerUID": 0,
+            "hasCommand": [],
+            "moduleIDs": [],
+            "hideOriBox": null
+        },
+        {
+            "modelID": 1,
+            "index": 2,
+            "name": "武器铺",
+            "x": 984,
+            "y": 744,
+            "z": 0,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ],
+            "avatarID": 0,
+            "avatarOri": 2,
+            "avatarAct": 1,
+            "avatarFPS": 12,
+            "avatarFrame": 1,
+            "avatarAlpha": 1,
+            "avatarHue": 0,
+            "shadowEnable": false,
+            "shadowWidth": 30,
+            "shadowHeight": 15,
+            "shadowAlpha": 0.5,
+            "displayList": {
+                "avatar": {
+                    "type": 1
+                }
+            },
+            "moduleDisplayList": [],
+            "layerLevel": 1,
+            "autoPlayEnable": true,
+            "scale": 1,
+            "playerUID": 0,
+            "hasCommand": [],
+            "moduleIDs": [],
+            "hideOriBox": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "customCommands": [
         []
     ],
-    "customAttributes": [],
-    "modulesCustomAttributes": [],
+    "customAttributes": [
+        null,
+        {
+            "selectEnabled": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "through": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "bridge": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "fixOri": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "ignoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveAutoChangeAction": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "lockBehaviorLayer": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "keepMoveActWhenCollsionObstacleAndIgnoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "behaviorDir4": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "repeatedTouchEnabled": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "onlyPlayerTouch": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "waitTouchEvent": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveSpeed": {
+                "varType": 0,
+                "value": 150,
+                "copy": false
+            },
+            "defBehavior": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            }
+        },
+        {
+            "selectEnabled": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "through": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "bridge": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "fixOri": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "ignoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveAutoChangeAction": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "lockBehaviorLayer": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "keepMoveActWhenCollsionObstacleAndIgnoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "behaviorDir4": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "repeatedTouchEnabled": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "onlyPlayerTouch": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "waitTouchEvent": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveSpeed": {
+                "varType": 0,
+                "value": 150,
+                "copy": false
+            },
+            "defBehavior": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            }
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "modulesCustomAttributes": [
+        null,
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
     "customAttributesCaches": [],
     "modulesCustomAttributesCaches": [],
-    "events": [],
-    "statusPages": [],
-    "statusPagesSelectedIndexs": []
+    "events": [
+        null,
+        {
+            "condition": [],
+            "customCommands": [
+                [
+                    [
+                        40010,
+                        {
+                            "49809728719_0.046619702255007": 0,
+                            "24538808102_0.9970934946254328": 1,
+                            "49612012650_0.7509974095572418": 1,
+                            "24538808435_0.6230939565765392": 11,
+                            "49518385245_0.9308839798952664": 1,
+                            "50689082740_0.526404642451832": true,
+                            "49141521249_0.2965750598394892": 0,
+                            "49519573910_0.08853124862540018": 1,
+                            "49141521416_0.0884961804795068": 0,
+                            "49519590084_0.3058131165318816": 1,
+                            "49150249927_0.6881795527970145": 100,
+                            "49519636189_0.2521948025226537": 1,
+                            "49232462793_0.7622411974016037": 1,
+                            "49520636693_0.8404154506260593": 1,
+                            "49232464582_0.12430969584603324": 1,
+                            "49520744730_0.6026838995761481": 1,
+                            "49232999716_0.2133484967243402": 0,
+                            "49520812848_0.5734967173507821": 1,
+                            "49234813142_0.3142568229981375": 1,
+                            "49520873912_0.5927053372462527": 1,
+                            "49599648354_0.3738368266485066": false,
+                            "49518248081_0.4367396293869368": false,
+                            "49599660535_0.0823572381286597": 1,
+                            "49518318443_0.5988810162565685": false,
+                            "49519399740_0.07229930251623617": false,
+                            "49519436070_0.9418611019894294": false,
+                            "49519475735_0.9428268094401824": false,
+                            "49519529748_0.519982170810438": false,
+                            "49520771123_0.27311479097864666": false,
+                            "49611947752_0.41521729946538755": false
+                        },
+                        "136522745959_0.2857562697915994"
+                    ],
+                    [
+                        -1,
+                        {
+                            "___cmdID": "136522646067_0.7814000726566483"
+                        }
+                    ]
+                ],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "condition": [],
+            "customCommands": [
+                [
+                    [
+                        10004,
+                        {
+                            "42616483455_0.4639772550758601": 0,
+                            "42616489134_0.7730466615484748": 0,
+                            "42616655343_0.8231014458198378": "\u0005136529362750_0.0568829011187717\u0005[[40010,{\"49809728719_0.046619702255007\":0,\"24538808102_0.9970934946254328\":1,\"49612012650_0.7509974095572418\":1,\"24538808435_0.6230939565765392\":11,\"49518385245_0.9308839798952664\":1,\"50689082740_0.526404642451832\":true,\"49141521249_0.2965750598394892\":0,\"49519573910_0.08853124862540018\":1,\"49141521416_0.0884961804795068\":0,\"49519590084_0.3058131165318816\":1,\"49150249927_0.6881795527970145\":100,\"49519636189_0.2521948025226537\":1,\"49232462793_0.7622411974016037\":1,\"49520636693_0.8404154506260593\":1,\"49232464582_0.12430969584603324\":1,\"49520744730_0.6026838995761481\":1,\"49232999716_0.2133484967243402\":0,\"49520812848_0.5734967173507821\":1,\"49234813142_0.3142568229981375\":1,\"49520873912_0.5927053372462527\":1,\"49599648354_0.3738368266485066\":false,\"49518248081_0.4367396293869368\":false,\"49599660535_0.0823572381286597\":1,\"49518318443_0.5988810162565685\":false,\"49519399740_0.07229930251623617\":false,\"49519436070_0.9418611019894294\":false,\"49519475735_0.9428268094401824\":false,\"49519529748_0.519982170810438\":false,\"49520771123_0.27311479097864666\":false,\"49611947752_0.41521729946538755\":false},\"136529349690_0.7551817040029822\"],[-1,{\"___cmdID\":\"136529332062_0.13209393750084497\"}]]",
+                            "42875522865_0.10960228539938566": true,
+                            "51693487585_0.29766152907542853": false,
+                            "51693539518_0.7462589003893905": 1
+                        },
+                        "136529367554_0.8597823942978462"
+                    ],
+                    [
+                        -1,
+                        {
+                            "___cmdID": "136522646067_0.7814000726566483"
+                        }
+                    ]
+                ],
+                [
+                    [
+                        -1,
+                        {
+                            "___cmdID": "136523789658_0.9338683755292592"
+                        }
+                    ]
+                ],
+                [],
+                [],
+                []
+            ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "statusPages": [
+        null,
+        [],
+        [],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "statusPagesSelectedIndexs": [
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "id": 2
 }
