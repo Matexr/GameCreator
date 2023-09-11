@@ -40,7 +40,8 @@
         {
             "id": 2,
             "name": "主城",
-            "children": []
+            "children": [],
+            "isOpen": true
         }
     ]
 }
