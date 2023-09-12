@@ -5,8 +5,8 @@
             "modelID": 1,
             "index": 1,
             "name": "装备铺",
-            "x": 648,
-            "y": 792,
+            "x": 604,
+            "y": 743,
             "z": 0,
             "materialData": [
                 {
@@ -387,17 +387,6 @@
         null,
         null
     ],
-    "statusPagesSelectedIndexs": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
+    "statusPagesSelectedIndexs": [],
     "id": 2
 }
