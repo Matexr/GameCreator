@@ -32,14 +32,14 @@
     ],
     "node": [
         {
-            "id": 1,
-            "name": "新的场景1",
+            "id": 2,
+            "name": "主城",
             "children": [],
             "isOpen": true
         },
         {
-            "id": 2,
-            "name": "主城",
+            "id": 1,
+            "name": "新的场景1",
             "children": [],
             "isOpen": true
         }

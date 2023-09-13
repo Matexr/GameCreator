@@ -1,0 +1,21 @@
+{
+    "preLayer": [],
+    "varAttributes": [],
+    "attrConditions": [],
+    "presetModules": [],
+    "serverInstanceClassName": "ServerSceneObject",
+    "clientInstanceClassName": "ClientSceneObject",
+    "supportTriggerTypes": [],
+    "supportStatusPage": true,
+    "hidePublicAttributes": [],
+    "editorListPresetData": [],
+    "id": 14,
+    "editorPreview": {
+        "moduleID": 0,
+        "varName": "avatar",
+        "type": 1,
+        "idList": [
+            14
+        ]
+    }
+}

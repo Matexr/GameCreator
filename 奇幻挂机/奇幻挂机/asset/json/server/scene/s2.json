@@ -1,19 +1,166 @@
 {
     "sceneObjects": [
-        null,
+        {
+            "modelID": 1,
+            "index": 0,
+            "name": "武器屋",
+            "x": 922,
+            "y": 821,
+            "z": 0,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ],
+            "avatarID": 13002,
+            "avatarOri": 2,
+            "avatarAct": 1,
+            "avatarFPS": 12,
+            "avatarFrame": 1,
+            "avatarAlpha": 1,
+            "avatarHue": 0,
+            "shadowEnable": false,
+            "shadowWidth": 30,
+            "shadowHeight": 15,
+            "shadowAlpha": 0.5,
+            "displayList": {
+                "avatar": {
+                    "type": 1
+                }
+            },
+            "moduleDisplayList": [],
+            "layerLevel": 1,
+            "autoPlayEnable": true,
+            "scale": 1,
+            "playerUID": 0,
+            "hasCommand": [],
+            "moduleIDs": [],
+            "hideOriBox": null
+        },
         {
             "modelID": 1,
             "index": 1,
             "name": "装备铺",
-            "x": 604,
-            "y": 743,
+            "x": 628,
+            "y": 821,
             "z": 0,
             "materialData": [
                 {
                     "materials": []
                 }
             ],
-            "avatarID": 0,
+            "avatarID": 13001,
+            "avatarOri": 4,
+            "avatarAct": 1,
+            "avatarFPS": 12,
+            "avatarFrame": 1,
+            "avatarAlpha": 1,
+            "avatarHue": 0,
+            "shadowEnable": false,
+            "shadowWidth": 30,
+            "shadowHeight": 15,
+            "shadowAlpha": 0.5,
+            "displayList": {
+                "avatar": {
+                    "type": 1
+                }
+            },
+            "moduleDisplayList": [],
+            "layerLevel": 1,
+            "autoPlayEnable": true,
+            "scale": 1,
+            "playerUID": 0,
+            "hasCommand": [],
+            "moduleIDs": [],
+            "hideOriBox": null
+        },
+        {
+            "modelID": 1,
+            "index": 2,
+            "name": "商店",
+            "x": 408,
+            "y": 353,
+            "z": 0,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ],
+            "avatarID": 13003,
+            "avatarOri": 4,
+            "avatarAct": 1,
+            "avatarFPS": 12,
+            "avatarFrame": 1,
+            "avatarAlpha": 1,
+            "avatarHue": 0,
+            "shadowEnable": false,
+            "shadowWidth": 30,
+            "shadowHeight": 15,
+            "shadowAlpha": 0.5,
+            "displayList": {
+                "avatar": {
+                    "type": 1
+                }
+            },
+            "moduleDisplayList": [],
+            "layerLevel": 1,
+            "autoPlayEnable": true,
+            "scale": 1,
+            "playerUID": 0,
+            "hasCommand": [],
+            "moduleIDs": [],
+            "hideOriBox": null
+        },
+        {
+            "modelID": 1,
+            "index": 3,
+            "name": "学院",
+            "x": 753,
+            "y": 499,
+            "z": 0,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ],
+            "avatarID": 13006,
+            "avatarOri": 4,
+            "avatarAct": 1,
+            "avatarFPS": 12,
+            "avatarFrame": 1,
+            "avatarAlpha": 1,
+            "avatarHue": 0,
+            "shadowEnable": false,
+            "shadowWidth": 30,
+            "shadowHeight": 15,
+            "shadowAlpha": 0.5,
+            "displayList": {
+                "avatar": {
+                    "type": 1
+                }
+            },
+            "moduleDisplayList": [],
+            "layerLevel": 1,
+            "autoPlayEnable": true,
+            "scale": 1,
+            "playerUID": 0,
+            "hasCommand": [],
+            "moduleIDs": [],
+            "hideOriBox": null
+        },
+        {
+            "modelID": 1,
+            "index": 4,
+            "name": "居民",
+            "x": 1249,
+            "y": 513,
+            "z": 0,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ],
+            "avatarID": 13004,
             "avatarOri": 2,
             "avatarAct": 1,
             "avatarFPS": 12,
@@ -38,25 +185,167 @@
             "moduleIDs": [],
             "hideOriBox": null
         },
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        {
+            "modelID": 1,
+            "index": 5,
+            "name": "熔炉",
+            "x": 1713,
+            "y": 511,
+            "z": 0,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ],
+            "avatarID": 13015,
+            "avatarOri": 4,
+            "avatarAct": 1,
+            "avatarFPS": 12,
+            "avatarFrame": 1,
+            "avatarAlpha": 1,
+            "avatarHue": 0,
+            "shadowEnable": false,
+            "shadowWidth": 30,
+            "shadowHeight": 15,
+            "shadowAlpha": 0.5,
+            "displayList": {
+                "avatar": {
+                    "type": 1
+                }
+            },
+            "moduleDisplayList": [],
+            "layerLevel": 1,
+            "autoPlayEnable": true,
+            "scale": 1,
+            "playerUID": 0,
+            "hasCommand": [],
+            "moduleIDs": [],
+            "hideOriBox": null
+        },
+        {
+            "modelID": 1,
+            "index": 6,
+            "name": "酒馆",
+            "x": 1636,
+            "y": 818,
+            "z": 0,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ],
+            "avatarID": 13005,
+            "avatarOri": 4,
+            "avatarAct": 1,
+            "avatarFPS": 12,
+            "avatarFrame": 1,
+            "avatarAlpha": 1,
+            "avatarHue": 0,
+            "shadowEnable": false,
+            "shadowWidth": 30,
+            "shadowHeight": 15,
+            "shadowAlpha": 0.5,
+            "displayList": {
+                "avatar": {
+                    "type": 1
+                }
+            },
+            "moduleDisplayList": [],
+            "layerLevel": 1,
+            "autoPlayEnable": true,
+            "scale": 1,
+            "playerUID": 0,
+            "hasCommand": [],
+            "moduleIDs": [],
+            "hideOriBox": null
+        },
+        {
+            "modelID": 1,
+            "index": 7,
+            "name": "探索",
+            "x": 1007,
+            "y": 1054,
+            "z": 0,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ],
+            "avatarID": 13008,
+            "avatarOri": 4,
+            "avatarAct": 1,
+            "avatarFPS": 12,
+            "avatarFrame": 1,
+            "avatarAlpha": 1,
+            "avatarHue": 0,
+            "shadowEnable": false,
+            "shadowWidth": 30,
+            "shadowHeight": 15,
+            "shadowAlpha": 0.5,
+            "displayList": {
+                "avatar": {
+                    "type": 1
+                }
+            },
+            "moduleDisplayList": [],
+            "layerLevel": 1,
+            "autoPlayEnable": true,
+            "scale": 1,
+            "playerUID": 0,
+            "hasCommand": [],
+            "moduleIDs": [],
+            "hideOriBox": null
+        },
         {
             "modelID": 1,
             "index": 8,
-            "name": "未命名0",
-            "x": 1176,
-            "y": 984,
+            "name": "冒险",
+            "x": 1187,
+            "y": 1054,
             "z": 0,
             "materialData": [
                 {
                     "materials": []
                 }
             ],
-            "avatarID": 9001,
+            "avatarID": 13007,
+            "avatarOri": 4,
+            "avatarAct": 1,
+            "avatarFPS": 12,
+            "avatarFrame": 1,
+            "avatarAlpha": 1,
+            "avatarHue": 0,
+            "shadowEnable": false,
+            "shadowWidth": 30,
+            "shadowHeight": 15,
+            "shadowAlpha": 0.5,
+            "displayList": {
+                "avatar": {
+                    "type": 1
+                }
+            },
+            "moduleDisplayList": [],
+            "layerLevel": 1,
+            "autoPlayEnable": true,
+            "scale": 1,
+            "playerUID": 0,
+            "hasCommand": [],
+            "moduleIDs": [],
+            "hideOriBox": null
+        },
+        {
+            "modelID": 1,
+            "index": 9,
+            "name": "活动",
+            "x": 904,
+            "y": 1053,
+            "z": 0,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ],
+            "avatarID": 13009,
             "avatarOri": 2,
             "avatarAct": 1,
             "avatarFPS": 12,
@@ -81,14 +370,85 @@
             "moduleIDs": [],
             "hideOriBox": null
         },
-        null,
-        null
+        {
+            "modelID": 1,
+            "index": 10,
+            "name": "任务",
+            "x": 802,
+            "y": 1054,
+            "z": 0,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ],
+            "avatarID": 13010,
+            "avatarOri": 2,
+            "avatarAct": 1,
+            "avatarFPS": 12,
+            "avatarFrame": 1,
+            "avatarAlpha": 1,
+            "avatarHue": 0,
+            "shadowEnable": false,
+            "shadowWidth": 30,
+            "shadowHeight": 15,
+            "shadowAlpha": 0.5,
+            "displayList": {
+                "avatar": {
+                    "type": 1
+                }
+            },
+            "moduleDisplayList": [],
+            "layerLevel": 1,
+            "autoPlayEnable": true,
+            "scale": 1,
+            "playerUID": 0,
+            "hasCommand": [],
+            "moduleIDs": [],
+            "hideOriBox": null
+        },
+        {
+            "modelID": 1,
+            "index": 11,
+            "name": "冒险者",
+            "x": 699,
+            "y": 1054,
+            "z": 0,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ],
+            "avatarID": 13011,
+            "avatarOri": 2,
+            "avatarAct": 1,
+            "avatarFPS": 12,
+            "avatarFrame": 1,
+            "avatarAlpha": 1,
+            "avatarHue": 0,
+            "shadowEnable": false,
+            "shadowWidth": 30,
+            "shadowHeight": 15,
+            "shadowAlpha": 0.5,
+            "displayList": {
+                "avatar": {
+                    "type": 1
+                }
+            },
+            "moduleDisplayList": [],
+            "layerLevel": 1,
+            "autoPlayEnable": true,
+            "scale": 1,
+            "playerUID": 0,
+            "hasCommand": [],
+            "moduleIDs": [],
+            "hideOriBox": null
+        }
     ],
     "customCommands": [
         []
     ],
     "customAttributes": [
-        null,
         {
             "selectEnabled": {
                 "varType": 2,
@@ -161,12 +521,6 @@
                 "copy": false
             }
         },
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
         {
             "selectEnabled": {
                 "varType": 2,
@@ -239,10 +593,729 @@
                 "copy": false
             }
         },
-        null,
-        null
+        {
+            "selectEnabled": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "through": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "bridge": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "fixOri": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "ignoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveAutoChangeAction": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "lockBehaviorLayer": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "keepMoveActWhenCollsionObstacleAndIgnoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "behaviorDir4": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "repeatedTouchEnabled": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "onlyPlayerTouch": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "waitTouchEvent": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveSpeed": {
+                "varType": 0,
+                "value": 150,
+                "copy": false
+            },
+            "defBehavior": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            }
+        },
+        {
+            "selectEnabled": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "through": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "bridge": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "fixOri": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "ignoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveAutoChangeAction": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "lockBehaviorLayer": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "keepMoveActWhenCollsionObstacleAndIgnoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "behaviorDir4": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "repeatedTouchEnabled": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "onlyPlayerTouch": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "waitTouchEvent": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveSpeed": {
+                "varType": 0,
+                "value": 150,
+                "copy": false
+            },
+            "defBehavior": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            }
+        },
+        {
+            "selectEnabled": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "through": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "bridge": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "fixOri": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "ignoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveAutoChangeAction": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "lockBehaviorLayer": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "keepMoveActWhenCollsionObstacleAndIgnoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "behaviorDir4": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "repeatedTouchEnabled": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "onlyPlayerTouch": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "waitTouchEvent": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveSpeed": {
+                "varType": 0,
+                "value": 150,
+                "copy": false
+            },
+            "defBehavior": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            }
+        },
+        {
+            "selectEnabled": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "through": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "bridge": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "fixOri": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "ignoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveAutoChangeAction": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "lockBehaviorLayer": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "keepMoveActWhenCollsionObstacleAndIgnoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "behaviorDir4": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "repeatedTouchEnabled": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "onlyPlayerTouch": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "waitTouchEvent": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveSpeed": {
+                "varType": 0,
+                "value": 150,
+                "copy": false
+            },
+            "defBehavior": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            }
+        },
+        {
+            "selectEnabled": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "through": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "bridge": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "fixOri": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "ignoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveAutoChangeAction": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "lockBehaviorLayer": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "keepMoveActWhenCollsionObstacleAndIgnoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "behaviorDir4": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "repeatedTouchEnabled": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "onlyPlayerTouch": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "waitTouchEvent": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveSpeed": {
+                "varType": 0,
+                "value": 150,
+                "copy": false
+            },
+            "defBehavior": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            }
+        },
+        {
+            "selectEnabled": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "through": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "bridge": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "fixOri": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "ignoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveAutoChangeAction": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "lockBehaviorLayer": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "keepMoveActWhenCollsionObstacleAndIgnoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "behaviorDir4": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "repeatedTouchEnabled": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "onlyPlayerTouch": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "waitTouchEvent": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveSpeed": {
+                "varType": 0,
+                "value": 150,
+                "copy": false
+            },
+            "defBehavior": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            }
+        },
+        {
+            "selectEnabled": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "through": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "bridge": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "fixOri": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "ignoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveAutoChangeAction": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "lockBehaviorLayer": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "keepMoveActWhenCollsionObstacleAndIgnoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "behaviorDir4": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "repeatedTouchEnabled": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "onlyPlayerTouch": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "waitTouchEvent": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveSpeed": {
+                "varType": 0,
+                "value": 150,
+                "copy": false
+            },
+            "defBehavior": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            }
+        },
+        {
+            "selectEnabled": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "through": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "bridge": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "fixOri": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "ignoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveAutoChangeAction": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "lockBehaviorLayer": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "keepMoveActWhenCollsionObstacleAndIgnoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "behaviorDir4": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "repeatedTouchEnabled": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "onlyPlayerTouch": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "waitTouchEvent": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveSpeed": {
+                "varType": 0,
+                "value": 150,
+                "copy": false
+            },
+            "defBehavior": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            }
+        },
+        {
+            "selectEnabled": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "through": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "bridge": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "fixOri": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "ignoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveAutoChangeAction": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "lockBehaviorLayer": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "keepMoveActWhenCollsionObstacleAndIgnoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "behaviorDir4": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "repeatedTouchEnabled": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "onlyPlayerTouch": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "waitTouchEvent": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveSpeed": {
+                "varType": 0,
+                "value": 150,
+                "copy": false
+            },
+            "defBehavior": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            }
+        },
+        {
+            "selectEnabled": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "through": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "bridge": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "fixOri": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "ignoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveAutoChangeAction": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "lockBehaviorLayer": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "keepMoveActWhenCollsionObstacleAndIgnoreCantMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "behaviorDir4": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "repeatedTouchEnabled": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "onlyPlayerTouch": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "waitTouchEvent": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveSpeed": {
+                "varType": 0,
+                "value": 150,
+                "copy": false
+            },
+            "defBehavior": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            }
+        }
     ],
     "modulesCustomAttributes": [
+        [],
         [],
         [],
         [],
@@ -258,7 +1331,6 @@
     "customAttributesCaches": [],
     "modulesCustomAttributesCaches": [],
     "events": [
-        null,
         {
             "condition": [],
             "customCommands": [
@@ -312,12 +1384,324 @@
                 []
             ]
         },
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        {
+            "condition": [],
+            "customCommands": [
+                [
+                    [
+                        40010,
+                        {
+                            "49809728719_0.046619702255007": 0,
+                            "24538808102_0.9970934946254328": 1,
+                            "49612012650_0.7509974095572418": 1,
+                            "24538808435_0.6230939565765392": 11,
+                            "49518385245_0.9308839798952664": 1,
+                            "50689082740_0.526404642451832": true,
+                            "49141521249_0.2965750598394892": 0,
+                            "49519573910_0.08853124862540018": 1,
+                            "49141521416_0.0884961804795068": 0,
+                            "49519590084_0.3058131165318816": 1,
+                            "49150249927_0.6881795527970145": 100,
+                            "49519636189_0.2521948025226537": 1,
+                            "49232462793_0.7622411974016037": 1,
+                            "49520636693_0.8404154506260593": 1,
+                            "49232464582_0.12430969584603324": 1,
+                            "49520744730_0.6026838995761481": 1,
+                            "49232999716_0.2133484967243402": 0,
+                            "49520812848_0.5734967173507821": 1,
+                            "49234813142_0.3142568229981375": 1,
+                            "49520873912_0.5927053372462527": 1,
+                            "49599648354_0.3738368266485066": false,
+                            "49518248081_0.4367396293869368": false,
+                            "49599660535_0.0823572381286597": 1,
+                            "49518318443_0.5988810162565685": false,
+                            "49519399740_0.07229930251623617": false,
+                            "49519436070_0.9418611019894294": false,
+                            "49519475735_0.9428268094401824": false,
+                            "49519529748_0.519982170810438": false,
+                            "49520771123_0.27311479097864666": false,
+                            "49611947752_0.41521729946538755": false
+                        },
+                        "136522745959_0.2857562697915994"
+                    ],
+                    [
+                        -1,
+                        {
+                            "___cmdID": "136522646067_0.7814000726566483"
+                        }
+                    ]
+                ],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "condition": [],
+            "customCommands": [
+                [
+                    [
+                        40010,
+                        {
+                            "49809728719_0.046619702255007": 0,
+                            "24538808102_0.9970934946254328": 1,
+                            "49612012650_0.7509974095572418": 1,
+                            "24538808435_0.6230939565765392": 11,
+                            "49518385245_0.9308839798952664": 1,
+                            "50689082740_0.526404642451832": true,
+                            "49141521249_0.2965750598394892": 0,
+                            "49519573910_0.08853124862540018": 1,
+                            "49141521416_0.0884961804795068": 0,
+                            "49519590084_0.3058131165318816": 1,
+                            "49150249927_0.6881795527970145": 100,
+                            "49519636189_0.2521948025226537": 1,
+                            "49232462793_0.7622411974016037": 1,
+                            "49520636693_0.8404154506260593": 1,
+                            "49232464582_0.12430969584603324": 1,
+                            "49520744730_0.6026838995761481": 1,
+                            "49232999716_0.2133484967243402": 0,
+                            "49520812848_0.5734967173507821": 1,
+                            "49234813142_0.3142568229981375": 1,
+                            "49520873912_0.5927053372462527": 1,
+                            "49599648354_0.3738368266485066": false,
+                            "49518248081_0.4367396293869368": false,
+                            "49599660535_0.0823572381286597": 1,
+                            "49518318443_0.5988810162565685": false,
+                            "49519399740_0.07229930251623617": false,
+                            "49519436070_0.9418611019894294": false,
+                            "49519475735_0.9428268094401824": false,
+                            "49519529748_0.519982170810438": false,
+                            "49520771123_0.27311479097864666": false,
+                            "49611947752_0.41521729946538755": false
+                        },
+                        "136522745959_0.2857562697915994"
+                    ],
+                    [
+                        -1,
+                        {
+                            "___cmdID": "136522646067_0.7814000726566483"
+                        }
+                    ]
+                ],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "condition": [],
+            "customCommands": [
+                [
+                    [
+                        40010,
+                        {
+                            "49809728719_0.046619702255007": 0,
+                            "24538808102_0.9970934946254328": 1,
+                            "49612012650_0.7509974095572418": 1,
+                            "24538808435_0.6230939565765392": 11,
+                            "49518385245_0.9308839798952664": 1,
+                            "50689082740_0.526404642451832": true,
+                            "49141521249_0.2965750598394892": 0,
+                            "49519573910_0.08853124862540018": 1,
+                            "49141521416_0.0884961804795068": 0,
+                            "49519590084_0.3058131165318816": 1,
+                            "49150249927_0.6881795527970145": 100,
+                            "49519636189_0.2521948025226537": 1,
+                            "49232462793_0.7622411974016037": 1,
+                            "49520636693_0.8404154506260593": 1,
+                            "49232464582_0.12430969584603324": 1,
+                            "49520744730_0.6026838995761481": 1,
+                            "49232999716_0.2133484967243402": 0,
+                            "49520812848_0.5734967173507821": 1,
+                            "49234813142_0.3142568229981375": 1,
+                            "49520873912_0.5927053372462527": 1,
+                            "49599648354_0.3738368266485066": false,
+                            "49518248081_0.4367396293869368": false,
+                            "49599660535_0.0823572381286597": 1,
+                            "49518318443_0.5988810162565685": false,
+                            "49519399740_0.07229930251623617": false,
+                            "49519436070_0.9418611019894294": false,
+                            "49519475735_0.9428268094401824": false,
+                            "49519529748_0.519982170810438": false,
+                            "49520771123_0.27311479097864666": false,
+                            "49611947752_0.41521729946538755": false
+                        },
+                        "136522745959_0.2857562697915994"
+                    ],
+                    [
+                        -1,
+                        {
+                            "___cmdID": "136522646067_0.7814000726566483"
+                        }
+                    ]
+                ],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "condition": [],
+            "customCommands": [
+                [
+                    [
+                        40010,
+                        {
+                            "49809728719_0.046619702255007": 0,
+                            "24538808102_0.9970934946254328": 1,
+                            "49612012650_0.7509974095572418": 1,
+                            "24538808435_0.6230939565765392": 11,
+                            "49518385245_0.9308839798952664": 1,
+                            "50689082740_0.526404642451832": true,
+                            "49141521249_0.2965750598394892": 0,
+                            "49519573910_0.08853124862540018": 1,
+                            "49141521416_0.0884961804795068": 0,
+                            "49519590084_0.3058131165318816": 1,
+                            "49150249927_0.6881795527970145": 100,
+                            "49519636189_0.2521948025226537": 1,
+                            "49232462793_0.7622411974016037": 1,
+                            "49520636693_0.8404154506260593": 1,
+                            "49232464582_0.12430969584603324": 1,
+                            "49520744730_0.6026838995761481": 1,
+                            "49232999716_0.2133484967243402": 0,
+                            "49520812848_0.5734967173507821": 1,
+                            "49234813142_0.3142568229981375": 1,
+                            "49520873912_0.5927053372462527": 1,
+                            "49599648354_0.3738368266485066": false,
+                            "49518248081_0.4367396293869368": false,
+                            "49599660535_0.0823572381286597": 1,
+                            "49518318443_0.5988810162565685": false,
+                            "49519399740_0.07229930251623617": false,
+                            "49519436070_0.9418611019894294": false,
+                            "49519475735_0.9428268094401824": false,
+                            "49519529748_0.519982170810438": false,
+                            "49520771123_0.27311479097864666": false,
+                            "49611947752_0.41521729946538755": false
+                        },
+                        "136522745959_0.2857562697915994"
+                    ],
+                    [
+                        -1,
+                        {
+                            "___cmdID": "136522646067_0.7814000726566483"
+                        }
+                    ]
+                ],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "condition": [],
+            "customCommands": [
+                [
+                    [
+                        40010,
+                        {
+                            "49809728719_0.046619702255007": 0,
+                            "24538808102_0.9970934946254328": 1,
+                            "49612012650_0.7509974095572418": 1,
+                            "24538808435_0.6230939565765392": 11,
+                            "49518385245_0.9308839798952664": 1,
+                            "50689082740_0.526404642451832": true,
+                            "49141521249_0.2965750598394892": 0,
+                            "49519573910_0.08853124862540018": 1,
+                            "49141521416_0.0884961804795068": 0,
+                            "49519590084_0.3058131165318816": 1,
+                            "49150249927_0.6881795527970145": 100,
+                            "49519636189_0.2521948025226537": 1,
+                            "49232462793_0.7622411974016037": 1,
+                            "49520636693_0.8404154506260593": 1,
+                            "49232464582_0.12430969584603324": 1,
+                            "49520744730_0.6026838995761481": 1,
+                            "49232999716_0.2133484967243402": 0,
+                            "49520812848_0.5734967173507821": 1,
+                            "49234813142_0.3142568229981375": 1,
+                            "49520873912_0.5927053372462527": 1,
+                            "49599648354_0.3738368266485066": false,
+                            "49518248081_0.4367396293869368": false,
+                            "49599660535_0.0823572381286597": 1,
+                            "49518318443_0.5988810162565685": false,
+                            "49519399740_0.07229930251623617": false,
+                            "49519436070_0.9418611019894294": false,
+                            "49519475735_0.9428268094401824": false,
+                            "49519529748_0.519982170810438": false,
+                            "49520771123_0.27311479097864666": false,
+                            "49611947752_0.41521729946538755": false
+                        },
+                        "136522745959_0.2857562697915994"
+                    ],
+                    [
+                        -1,
+                        {
+                            "___cmdID": "136522646067_0.7814000726566483"
+                        }
+                    ]
+                ],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "condition": [],
+            "customCommands": [
+                [
+                    [
+                        40010,
+                        {
+                            "49809728719_0.046619702255007": 0,
+                            "24538808102_0.9970934946254328": 1,
+                            "49612012650_0.7509974095572418": 1,
+                            "24538808435_0.6230939565765392": 11,
+                            "49518385245_0.9308839798952664": 1,
+                            "50689082740_0.526404642451832": true,
+                            "49141521249_0.2965750598394892": 0,
+                            "49519573910_0.08853124862540018": 1,
+                            "49141521416_0.0884961804795068": 0,
+                            "49519590084_0.3058131165318816": 1,
+                            "49150249927_0.6881795527970145": 100,
+                            "49519636189_0.2521948025226537": 1,
+                            "49232462793_0.7622411974016037": 1,
+                            "49520636693_0.8404154506260593": 1,
+                            "49232464582_0.12430969584603324": 1,
+                            "49520744730_0.6026838995761481": 1,
+                            "49232999716_0.2133484967243402": 0,
+                            "49520812848_0.5734967173507821": 1,
+                            "49234813142_0.3142568229981375": 1,
+                            "49520873912_0.5927053372462527": 1,
+                            "49599648354_0.3738368266485066": false,
+                            "49518248081_0.4367396293869368": false,
+                            "49599660535_0.0823572381286597": 1,
+                            "49518318443_0.5988810162565685": false,
+                            "49519399740_0.07229930251623617": false,
+                            "49519436070_0.9418611019894294": false,
+                            "49519475735_0.9428268094401824": false,
+                            "49519529748_0.519982170810438": false,
+                            "49520771123_0.27311479097864666": false,
+                            "49611947752_0.41521729946538755": false
+                        },
+                        "136522745959_0.2857562697915994"
+                    ],
+                    [
+                        -1,
+                        {
+                            "___cmdID": "136522646067_0.7814000726566483"
+                        }
+                    ]
+                ],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
         {
             "condition": [],
             "customCommands": [
@@ -371,22 +1755,246 @@
                 []
             ]
         },
-        null,
-        null
+        {
+            "condition": [],
+            "customCommands": [
+                [
+                    [
+                        40010,
+                        {
+                            "49809728719_0.046619702255007": 0,
+                            "24538808102_0.9970934946254328": 1,
+                            "49612012650_0.7509974095572418": 1,
+                            "24538808435_0.6230939565765392": 46,
+                            "49518385245_0.9308839798952664": 1,
+                            "50689082740_0.526404642451832": true,
+                            "49141521249_0.2965750598394892": 0,
+                            "49519573910_0.08853124862540018": 1,
+                            "49141521416_0.0884961804795068": 0,
+                            "49519590084_0.3058131165318816": 1,
+                            "49150249927_0.6881795527970145": 100,
+                            "49519636189_0.2521948025226537": 1,
+                            "49232462793_0.7622411974016037": 1,
+                            "49520636693_0.8404154506260593": 1,
+                            "49232464582_0.12430969584603324": 1,
+                            "49520744730_0.6026838995761481": 1,
+                            "49232999716_0.2133484967243402": 0,
+                            "49520812848_0.5734967173507821": 1,
+                            "49234813142_0.3142568229981375": 1,
+                            "49520873912_0.5927053372462527": 1,
+                            "49599648354_0.3738368266485066": false,
+                            "49518248081_0.4367396293869368": false,
+                            "49599660535_0.0823572381286597": 1,
+                            "49518318443_0.5988810162565685": false,
+                            "49519399740_0.07229930251623617": false,
+                            "49519436070_0.9418611019894294": false,
+                            "49519475735_0.9428268094401824": false,
+                            "49519529748_0.519982170810438": false,
+                            "49520771123_0.27311479097864666": false,
+                            "49611947752_0.41521729946538755": false
+                        },
+                        "136867327568_0.7465589810284985"
+                    ],
+                    [
+                        -1,
+                        {
+                            "___cmdID": "136867305706_0.7179522910343106"
+                        }
+                    ]
+                ],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "condition": [],
+            "customCommands": [
+                [
+                    [
+                        40010,
+                        {
+                            "49809728719_0.046619702255007": 0,
+                            "24538808102_0.9970934946254328": 1,
+                            "49612012650_0.7509974095572418": 1,
+                            "24538808435_0.6230939565765392": 46,
+                            "49518385245_0.9308839798952664": 1,
+                            "50689082740_0.526404642451832": true,
+                            "49141521249_0.2965750598394892": 0,
+                            "49519573910_0.08853124862540018": 1,
+                            "49141521416_0.0884961804795068": 0,
+                            "49519590084_0.3058131165318816": 1,
+                            "49150249927_0.6881795527970145": 100,
+                            "49519636189_0.2521948025226537": 1,
+                            "49232462793_0.7622411974016037": 1,
+                            "49520636693_0.8404154506260593": 1,
+                            "49232464582_0.12430969584603324": 1,
+                            "49520744730_0.6026838995761481": 1,
+                            "49232999716_0.2133484967243402": 0,
+                            "49520812848_0.5734967173507821": 1,
+                            "49234813142_0.3142568229981375": 1,
+                            "49520873912_0.5927053372462527": 1,
+                            "49599648354_0.3738368266485066": false,
+                            "49518248081_0.4367396293869368": false,
+                            "49599660535_0.0823572381286597": 1,
+                            "49518318443_0.5988810162565685": false,
+                            "49519399740_0.07229930251623617": false,
+                            "49519436070_0.9418611019894294": false,
+                            "49519475735_0.9428268094401824": false,
+                            "49519529748_0.519982170810438": false,
+                            "49520771123_0.27311479097864666": false,
+                            "49611947752_0.41521729946538755": false
+                        },
+                        "136867327568_0.7465589810284985"
+                    ],
+                    [
+                        -1,
+                        {
+                            "___cmdID": "136867305706_0.7179522910343106"
+                        }
+                    ]
+                ],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "condition": [],
+            "customCommands": [
+                [
+                    [
+                        40010,
+                        {
+                            "49809728719_0.046619702255007": 0,
+                            "24538808102_0.9970934946254328": 1,
+                            "49612012650_0.7509974095572418": 1,
+                            "24538808435_0.6230939565765392": 46,
+                            "49518385245_0.9308839798952664": 1,
+                            "50689082740_0.526404642451832": true,
+                            "49141521249_0.2965750598394892": 0,
+                            "49519573910_0.08853124862540018": 1,
+                            "49141521416_0.0884961804795068": 0,
+                            "49519590084_0.3058131165318816": 1,
+                            "49150249927_0.6881795527970145": 100,
+                            "49519636189_0.2521948025226537": 1,
+                            "49232462793_0.7622411974016037": 1,
+                            "49520636693_0.8404154506260593": 1,
+                            "49232464582_0.12430969584603324": 1,
+                            "49520744730_0.6026838995761481": 1,
+                            "49232999716_0.2133484967243402": 0,
+                            "49520812848_0.5734967173507821": 1,
+                            "49234813142_0.3142568229981375": 1,
+                            "49520873912_0.5927053372462527": 1,
+                            "49599648354_0.3738368266485066": false,
+                            "49518248081_0.4367396293869368": false,
+                            "49599660535_0.0823572381286597": 1,
+                            "49518318443_0.5988810162565685": false,
+                            "49519399740_0.07229930251623617": false,
+                            "49519436070_0.9418611019894294": false,
+                            "49519475735_0.9428268094401824": false,
+                            "49519529748_0.519982170810438": false,
+                            "49520771123_0.27311479097864666": false,
+                            "49611947752_0.41521729946538755": false
+                        },
+                        "136867327568_0.7465589810284985"
+                    ],
+                    [
+                        -1,
+                        {
+                            "___cmdID": "136867305706_0.7179522910343106"
+                        }
+                    ]
+                ],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "condition": [],
+            "customCommands": [
+                [
+                    [
+                        40010,
+                        {
+                            "49809728719_0.046619702255007": 0,
+                            "24538808102_0.9970934946254328": 1,
+                            "49612012650_0.7509974095572418": 1,
+                            "24538808435_0.6230939565765392": 46,
+                            "49518385245_0.9308839798952664": 1,
+                            "50689082740_0.526404642451832": true,
+                            "49141521249_0.2965750598394892": 0,
+                            "49519573910_0.08853124862540018": 1,
+                            "49141521416_0.0884961804795068": 0,
+                            "49519590084_0.3058131165318816": 1,
+                            "49150249927_0.6881795527970145": 100,
+                            "49519636189_0.2521948025226537": 1,
+                            "49232462793_0.7622411974016037": 1,
+                            "49520636693_0.8404154506260593": 1,
+                            "49232464582_0.12430969584603324": 1,
+                            "49520744730_0.6026838995761481": 1,
+                            "49232999716_0.2133484967243402": 0,
+                            "49520812848_0.5734967173507821": 1,
+                            "49234813142_0.3142568229981375": 1,
+                            "49520873912_0.5927053372462527": 1,
+                            "49599648354_0.3738368266485066": false,
+                            "49518248081_0.4367396293869368": false,
+                            "49599660535_0.0823572381286597": 1,
+                            "49518318443_0.5988810162565685": false,
+                            "49519399740_0.07229930251623617": false,
+                            "49519436070_0.9418611019894294": false,
+                            "49519475735_0.9428268094401824": false,
+                            "49519529748_0.519982170810438": false,
+                            "49520771123_0.27311479097864666": false,
+                            "49611947752_0.41521729946538755": false
+                        },
+                        "136867327568_0.7465589810284985"
+                    ],
+                    [
+                        -1,
+                        {
+                            "___cmdID": "136867305706_0.7179522910343106"
+                        }
+                    ]
+                ],
+                [],
+                [],
+                [],
+                []
+            ]
+        }
     ],
     "statusPages": [
-        null,
         [],
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
         [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "statusPagesSelectedIndexs": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null
     ],
-    "statusPagesSelectedIndexs": [],
     "id": 2
 }
